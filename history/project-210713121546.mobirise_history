@@ -19,8 +19,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.3",
     "siteFonts": [],
-    "uniqCompNum": 203,
-    "versionPublish": "5.3.10",
+    "uniqCompNum": 193,
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
@@ -1187,7 +1187,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Research Themes",
-        "order": 25
+        "order": 24
       },
       "components": [
         {
@@ -1966,7 +1966,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Ali Fendri",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -2473,7 +2473,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Lorea Alejaldre",
-        "order": 23
+        "order": 22
       },
       "components": [
         {
@@ -3032,7 +3032,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Adem Parisien",
-        "order": 22
+        "order": 21
       },
       "components": [
         {
@@ -5708,7 +5708,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Olivier Rousseau",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -6214,7 +6214,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Daniela Quaglia",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -6772,7 +6772,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Natalie Rachel",
-        "order": 17
+        "order": 16
       },
       "components": [
         {
@@ -7226,7 +7226,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Maximilian Ebert",
-        "order": 18
+        "order": 17
       },
       "components": [
         {
@@ -7680,7 +7680,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "David Charbonneau",
-        "order": 20
+        "order": 19
       },
       "components": [
         {
@@ -8134,7 +8134,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Sophie Gobeil",
-        "order": 21
+        "order": 20
       },
       "components": [
         {
@@ -8640,7 +8640,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Jacynthe Toulouse",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -10008,9 +10008,9 @@
               "size": 0
             }
           },
-          "title1": "Prof. JOELLE PELLETIER, WINNER OF THE 2021 CLARA BENSON AWARD",
-          "caption1": "The Canadian Council of University Chemistry Chairs (CCUCC) recognized Prof. Pelletier for her distinguished contribution to chemistry while working in Canada.<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.cheminst.ca/awards/csc/benson/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
+          "title1": "RECENT PUBLISHED WORK ON NEW COVID-19 PROJECT",
+          "caption1": "<br>A Rapid and Quantitative Serum Test for SARS-CoV-19 Antibodies&nbsp; &nbsp;<br>with Portable Surface Plasmon Resonance Sensing.<br><br>Published in ChemRxiv",
+          "button1": "<a data-app-btn=\"true\" href=\"https://europepmc.org/article/ppr/ppr153905\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ ARTICLE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -10031,9 +10031,9 @@
               "size": 0
             }
           },
-          "title2": "Dre LOREA ALEJALDRE SUCCESSFULLY DEFENDED HER THESIS<div></div>",
-          "caption2": "Congratulations to Lorea for her Ph.D. thesis defense on: Towards higher predictability in enzyme engineering, Investigating of protein epistasis in dynamics β-lactamases and Cal-A lipase.<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://biochimie.umontreal.ca/calendrier/soutenance-de-these-lorea-alejaldre-ripalda/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>",
+          "title2": "RECENT PUBLISHED WORK ON BETA-LACTAMASES<div></div>",
+          "caption2": "Known Evolutionary Paths Are Accessible to Engineered ß-Lactamases Having Altered Protein Motions at the Timescale of Catalytic Turnover<br><br><br>Published in Frontiers in Molecular Biosciences",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.frontiersin.org/articles/10.3389/fmolb.2020.599298/full\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ ARTICLE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -10055,7 +10055,7 @@
             }
           },
           "title3": "RECENT PUBLISHED WORK ON TRANSGLUTAMINASE\n<div><br></div>",
-          "caption3": "Glutamine-Walking: Creating Reactive Substrates for Transglutaminase-Mediated Protein Labeling\n<br><br>&nbsp;<br><br>Published in Methods in Enzymology",
+          "caption3": "Glutamine-Walking: Creating Reactive Substrates for Transglutaminase-Mediated Protein Labeling\n<br>&nbsp;<br><br>Published in Methods in Enzymology",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.sciencedirect.com/science/article/pii/S0076687920301944?via%3Dihub\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ ARTICLE</a>",
           "media4": {
             "image": {
@@ -10077,9 +10077,9 @@
               "size": 0
             }
           },
-          "title4": "RECENT REVIEWS HAVE BEEN PUBLISHED",
-          "caption4": "p450 Immobilization methods and techniques was accepted for publication in ACS catalysis.<br><br>Methods of mutagenesis and library creation was accepted for publication.<br><br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"Last_articles.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">READ ARTICLES</a>",
+          "title4": "RECENT PUBLISHED WORK ON CAL-A LIPASE",
+          "caption4": "<br>Holistic Engineering of Cal-A Lipase Chain-Length Selectivity Identifies Triglyceride Binding Hot-Spot&nbsp;&nbsp;<br><br><br>Published in PLOS One<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210100\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ ARTICLE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -10100,8 +10100,8 @@
               "size": 0
             }
           },
-          "title5": "ADEM H-.PARISIEN, TALK PRESENTATION FOR PROTEO'S 20th ANNUAL SYMPOSIUM",
-          "caption5": "Congratulations to Adem H-.Parisien,&nbsp; for his oral presentation: Site-specific modification of IgG1 antibodies using the glutamine-walk strategy. The event was held virtually by the Université Laval in collaboration with universities across Canada.<br>",
+          "title5": "Best poster presentation winner - 5th Annual Chemical and Synthetic Biology Days",
+          "caption5": "Congratulations to Claudèle Lemay-St-Denis,&nbsp; for her poster presentation award: The search for the evolutionary origin of type B dihydrofolate reductase (DfrBs). The event was hosted by the University of Ottawa.<br>",
           "button5": "<a data-app-btn=\"true\" href=\"https://www.biomolar.uottawa.ca/who-we-are.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -10177,20 +10177,20 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "showBullets": true,
-            "bgColor": "#000000",
+            "bgColor": "#e25041",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x960.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "New serological project on COVID-19",
                 "contentAlign": "center",
-                "text": "In collaboration with the research laboratories of Jean-François Masson (U. de Montréal) and Denis Boudreau (U. Laval), the help of organisms such as Instruments Scientifiques Affinité, Héma-Québec as well as many other collaborators, we are currently developing a combined ELISA and SPR (Surface Plasmon Resonance) approach in order to quantify and characterize antibodies against the SARS-CoV-2 virus.<br>We are participating in a collaborative effort to make clinical biodetection more readily available.&nbsp;<br>",
+                "text": "In collaboration with the research laboratories of Jean-François Masson (U. de Montréal) and Denis Boudreau (U. Laval), the help of organisms such as Instruments Scientifiques Affinité, Héma-Québec as well as many other collaborators, we are currently developing a combined ELISA and SPR (Surface Plasmon Resonance) approach in order to quantify and characterize antibodies against the SARS-CoV-2 virus.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Last_articles.html#top\" data-toolbar=\"-mbrBtnMove\">More</a>  ",
                 "overlay": true,
-                "overlayColor": "#fac51c"
+                "overlayColor": "#553982"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
@@ -10221,13 +10221,13 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Dihydrofolate Reductases<br><br>",
                 "contentAlign": "center",
-                "text": "Dihydrofolate reductases (or Dfrs) are essential in all dividing cells. As a result, they are crucial drug targets in proliferative diseases such as cancer and bacterial infections. We have evolved human Dfr (<strong>hDfr</strong>) to be highly resistant to the chemotherapy drug methotrexate, as a tool to improve the efficiency of gene therapy.<br>Bacteria are increasingly acquiring a distinct, inherently drug-resistant Dfr (<b>DfrB1</b>). We have contributed to understand the properties of this enzyme and have discovered its first inhibitors.",
+                "text": "Dihydrofolate reductases (or DHFRs) are essential in all dividing cells. As a result, they are crucial drug targets in proliferative diseases such as cancer and bacterial infections. We have evolved human DHFR (<strong>hDHFR</strong>) to be highly resistant to the chemotherapy drug methotrexate, as a tool to improve the efficiency of gene therapy.<br>Bacteria are increasingly acquiring a distinct, inherently drug-resistant DHFR (<strong>R67 DHFR</strong>). We have contributed to understand the properties of this enzyme and have discovered its first inhibitors.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"research_themes.html#header3-2b\" data-toolbar=\"-mbrBtnMove\">More</a> ",
                 "overlay": true,
                 "overlayColor": "#fac51c"
@@ -10238,12 +10238,25 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "β-Lactamases<br><br>",
+                "title": "Beta-Lactamases<br><br>",
                 "contentAlign": "center",
-                "text": "β-lactamases  cause bacterial resistance to commonly-prescribed antibiotics such as penicillins, cephamycins, and carbapenems. β-lactamases efficiently hydrolyse those antibiotics, inactivating their antibacterial properties. By way of directed evolution, we have determined that these enzymes evolve readily, adapting to new antibiotics. Importantly, these enzymes appear to tolerate important changes in their intrinsic protein motions, with little effect on their catalytic efficiency.<br>",
+                "text": "Beta-lactamases  cause bacterial resistance to commonly-prescribed antibiotics such as penicillins, cephamycins, and carbapenems. Beta-lactamases efficiently hydrolyse those antibiotics, inactivating their antibacterial properties. By way of directed evolution, we have determined that these enzymes evolve readily, adapting to new antibiotics. Importantly, these enzymes appear to tolerate important changes in their intrinsic protein motions, with little effect on their catalytic efficiency.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"research_themes.html#header3-2d\" data-toolbar=\"-mbrBtnMove\">More</a>  ",
                 "overlay": true,
                 "overlayColor": "#553982"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Biodetection<br><br>",
+                "contentAlign": "center",
+                "text": "We are participating in a collaborative effort to make clinical biodectection more readily available. Using a lightweight and portable surface plasmon resonance (SPR) instrument, we are developing highly sensitive protein-based coatings for quantification of diverse analytes directly out of biofluids.<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"research_themes.html#header3-27\" data-toolbar=\"-mbrBtnMove\">More</a> ",
+                "overlay": true,
+                "overlayColor": "#41a85f"
               }
             ]
           },
@@ -10320,7 +10333,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Sarah Mélissa Jane Abraham",
-        "order": 19
+        "order": 18
       },
       "components": [
         {
@@ -11271,7 +11284,7 @@
             }
           },
           "title": "Claudèle Lemay-St-Denis&nbsp;",
-          "text": "<p>Ph.D. candidate in Biochemistry</p><p>Département de biochimie et médecine moléculaire</p><p>Université de Montréal</p><p><br></p><p>\n</p><p>- MIL campus - B-6227</p><p>- <a href=\"https://www.linkedin.com/in/claud%C3%A8le-lemay-st-denis-a00abb192\" class=\"text-warning\" target=\"_blank\">LinkedIn</a></p><p>- @ : <a href=\"mailto:claudele.lemay-st-denis@umontreal.ca\" class=\"text-warning\">claudele.lemay-st-denis@umontreal.ca</a></p>",
+          "text": "<p>Ph.D. student\n</p><p>Department of Biochemistry</p><p><br></p><p>\n</p><p>- Pavillon Roger-Gaudry, Room F-509</p><p>- Phone: +1 (514) 343-6111 - Poste : 3918</p><p>- Fax: +1 (514) 343-7586 \n</p><p>- @ : <a href=\"mailto:claudele.lemay-st-denis@umontreal.ca\" class=\"text-warning\">claudele.lemay-st-denis@umontreal.ca</a></p>",
           "_tags": [
             "Thème"
           ],
@@ -11338,7 +11351,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Current project\n",
-          "meta": "Evolution of the trimethoprim resistance due to dihydrofolate reductases B (DfrB)",
+          "meta": "Evolution of the trimethoprim resistance due to dihydrofolate reductase B (DfrB)",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -11495,7 +11508,7 @@
           },
           "title": "Scholarship and Awards\n",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>•&nbsp; &nbsp; 01/2025 - 12/2025: PhD scholarship B2X (FRQNT)</p><p>•&nbsp; &nbsp; 01/2022 - 12/2024: Postgraduate scholarship - Doctoral, PGS D (NSERC)</p><p>• &nbsp; &nbsp;09/2020 - 08/2020: Master's research scholarship B1X from Fonds de recherche du Québec - Nature et technologies (FRQNT)</p><p>• &nbsp; &nbsp;09/2019 - 08/2020: Part of the Advanced Protein Engineering Training, Internships, Courses, and Exhibition (APRENTICE) program, a Collaborative Research and Training Experience (CREATE) supported by the Natural Science and Engineering Research Council of Canada (NSERC).\n</p><p>• &nbsp; &nbsp;09/2019 - 08/2021: Doctoral direct access grant in biochemistry from Université de Montréal\n</p><p>• &nbsp; &nbsp;09/2019 - 08/2020: Canada Graduate Scholarships-Master’s (CGS M) Alexander-Graham-Bell from Natural Sciences and Engineering Research Council of Canada (NSERC)\n</p><p>• &nbsp; &nbsp;09/2019 - 08/2020: Bourse de Mérite from the Medicine Faculty, Université de Montréal (declined)&nbsp;</p><p>• &nbsp; &nbsp;06/2019: Dean's Honour List of the Faculty of Medicine, Université de Montréal&nbsp;</p><p>\n• &nbsp; &nbsp;06/2019: Award for the student who has distinguished himself as an emerging researcher in biochemistry and molecular medicine, Université de Montréal&nbsp;</p><p>\n• &nbsp; &nbsp;05/2018 - 08/2018: Supplements of the NSERC's Experience Awards (BPCI) from Fonds de recherche du Québec - Nature et technologies (FRQNT)&nbsp;</p><p>• &nbsp; &nbsp;05/2018 - 08/2018: Undergraduate Student Research Awards (URSA) of NSERC 2018-2019 from Natural Sciences and Engineering Research Council of Canada (NSERC)&nbsp;</p><p>• &nbsp; &nbsp;05/2018 - 08/2018: PROTEO Undergraduate Summer Studentships (declined)</p>",
+          "text": "<p>• &nbsp; &nbsp;09/2020 - 08/2020: Master's research scholarship B1X from Fonds de recherche du Québec - Nature et technologies (FRQNT)\n</p><p>• &nbsp; &nbsp;09/2019 - 08/2020: Part of the Advanced Protein Engineering Training, Internships, Courses, and Exhibition (APRENTICE) program, a Collaborative Research and Training Experience (CREATE) supported by the Natural Science and Engineering Research Council of Canada (NSERC).\n</p><p>• &nbsp; &nbsp;09/2019 - 08/2020: Doctoral direct access grant in biochemistry from Université de Montréal\n</p><p>• &nbsp; &nbsp;09/2019 - 08/2020: Canada Graduate Scholarships-Master’s (CGS M) Alexander-Graham-Bell from Natural Sciences and Engineering Research Council of Canada (NSERC)\n</p><p>• &nbsp; &nbsp;09/2019 - 08/2020: Bourse de Mérite from the Medicine Faculty, Université de Montréal (declined)&nbsp;</p><p>• &nbsp; &nbsp;06/2019: Dean's Honour List of the Faculty of Medicine, Université de Montréal&nbsp;</p><p>\n• &nbsp; &nbsp;06/2019: Award for the student who has distinguished himself as an emerging researcher in biochemistry and molecular medicine, Université de Montréal&nbsp;</p><p>\n• &nbsp; &nbsp;05/2018 - 08/2018: Supplements of the NSERC's Experience Awards (BPCI) from Fonds de recherche du Québec - Nature et technologies (FRQNT)&nbsp;</p><p>• &nbsp; &nbsp;05/2018 - 08/2018: Undergraduate Student Research Awards (URSA) of NSERC 2018-2019 from Natural Sciences and Engineering Research Council of Canada (NSERC)&nbsp;</p><p>• &nbsp; &nbsp;05/2018 - 08/2018: PROTEO Undergraduate Summer Studentships (declined)</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Thème"
@@ -11547,7 +11560,7 @@
           },
           "title": "Publications\n",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "•&nbsp; &nbsp;<a href=\"https://scholar.google.ca/citations?user=JRw9eFYAAAAJ&amp;hl=en&amp;oi=ao\" class=\"text-warning\" target=\"_blank\">Google Scholar Page</a>",
+          "text": "Coming soon ...",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Thème"
@@ -11611,7 +11624,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Jonathan Besna",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -12120,7 +12133,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Kiana Lafontaine",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -12629,7 +12642,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Abdelhadi Djaileb",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -13086,7 +13099,7 @@
       "settings": {
         "meta_descr": "Post-Doc Student",
         "title": "Donya Valikhani",
-        "order": 24
+        "order": 23
       },
       "components": [
         {
@@ -13588,514 +13601,6 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-5b"
-        }
-      ]
-    },
-    "page25.html": {
-      "settings": {
-        "meta_descr": "Website Creator Description",
-        "title": "German De Armas Guitart",
-        "order": 9
-      },
-      "components": [
-        {
-          "_inherit": "dropdown-menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "1",
-            "fontName": {},
-            "fontColor": "#205896"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research_themes.html\">Research themes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Last_articles.html\">Latest articles</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>MEMBERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Joelle_Pelletier.html\" aria-expanded=\"false\">Pr. Joelle Pelletier</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Donya.html\" aria-expanded=\"false\">Donya Valikhani<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Lorea_Alejaldre.html\" aria-expanded=\"false\">Lorea Alejaldre<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Ali_Fendri.html\" aria-expanded=\"false\">Ali Fendri<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Adem_Parisien.html\" aria-expanded=\"false\">Adem H. Parisien<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Claudele_Lemay-St-Denis.html\" aria-expanded=\"false\">Claudèle Lemay-St-Denis<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"KianaLafontaine.html\" aria-expanded=\"false\">Kiana Lafontaine<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"JonathanBesna.html\" aria-expanded=\"false\">Jonathan N. Besna<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Hadi.html\" aria-expanded=\"false\">Abdelhadi Djaileb</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Visitors.html\" aria-expanded=\"false\">Visitors<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Interns.html\" aria-expanded=\"false\">Interns<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"alumni.html\" aria-expanded=\"false\">Alumni<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"courses_udem.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>COURSES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#contacts2-2b\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://esilrch1.esi.umontreal.ca/~pelletjo/PageFR/Accueil\"><span class=\"mobi-mbri mobi-mbri-globe-2 mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(184, 49, 47);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"page12.html\">FR/EN</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {
-              "font-size": "18px",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            },
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#205896"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#205896"
-            },
-            "A": {
-              "font-size": "10px"
-            },
-            ".btn": {
-              "font-size": "8px",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-udem-ccvc-proteo-604x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "pelletjo_index.html#contacts2-2b",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-5d"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#075fb1",
-              "font-size": "20px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/labphoto2019top3-2000x547.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/fJ9rUzIMcZQ?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
-              "width": 1280,
-              "height": 720
-            },
-            "darkBackground": true,
-            "overlay": false,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
-          },
-          "title": "&nbsp;",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-5e"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "23",
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#28324e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x600.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "GERMAN DE ARMAS GUITART",
-          "text": "<p>Ph.D. candidate in Biochemistry</p><p>Département de biochimie et médecine moléculaire</p><p>Université de Montréal</p><p><br></p><p>\n</p><p>- MIL campus - B-6227</p><p>- @ : <a href=\"mailto:german.de.armas-guitart@umontreal.ca\" class=\"text-warning\">german.de.armas-guitart@umontreal.ca</a></p>",
-          "_tags": [
-            "Thème"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-5f"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "left",
-              "color": "#252525",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "21px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "left",
-              "color": "#cccccc"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "text-align": "left",
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": true,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#d14841",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Current project\n",
-          "meta": "Discovering new DfrB inhibitors",
-          "text": "The main focus of this project is developing and testing new inhibitors for the DfrB enzyme family.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-5g"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "left",
-              "color": "#252525",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "21px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "text-align": "left",
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#eb6b56",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Education\n",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>•&nbsp; &nbsp; M.Sc. 2021 (Biochemistry), Département de Biochimie, Université de Sherbrooke, Canada</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-5h"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "left",
-              "color": "#252525",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "21px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "text-align": "left",
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#d14841",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Research Experience\n",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>• &nbsp; &nbsp;09/2018 - 04/2019: Undergraduate internship, Maturation of microRNAs associated with stress-related behavior, Pascale Legault Lab\n, Université de Montréal, Canada</p><p>• &nbsp; &nbsp;05/2018 - 08/2018: Undergraduate internship, Characterization of variants of TEM-1 β-lactamase, Joelle Pelletier Lab, Université de Montréal, Canada</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-5i"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "left",
-              "color": "#252525",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "21px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "text-align": "left",
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#eb6b56",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Scholarship and Awards\n",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>•&nbsp;&nbsp;</p><p>• &nbsp; &nbsp;05/2018 - 08/2018: PROTEO Undergraduate Summer Studentships (declined)</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-5j"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "left",
-              "color": "#252525",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "21px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "text-align": "left",
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#d14841",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Publications\n",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "•&nbsp; &nbsp;<a href=\"https://scholar.google.ca/citations?user=JRw9eFYAAAAJ&amp;hl=en&amp;oi=ao\" class=\"text-warning\" target=\"_blank\">Google Scholar Page</a>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-5k"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "iframe",
-              "state": "ok"
-            }
-          },
-          "text1": "<strong>ADDRESS</strong><br><br>University of Montreal \n<br>Departement of Chemistry<br><a href=\"https://campusmil.umontreal.ca/\" class=\"text-warning\" target=\"_blank\">Campus MIL</a> - Room B-6227&nbsp;<br>1375 Ave.Thérèse-Lavoie-Roux<br>Montreal, Qc, Canada,&nbsp;H2V 0B3&nbsp;<br>\n<br><b>CONTACTS</b><br>Phone: +1 <a href=\"tel:+1 (514) 343-2124 \" class=\"text-danger\">(514) 343-2124 </a>\n<br>Fax: +1 <a href=\"tel:+1 (514) 343-7586 \" class=\"text-danger\">(514) 343-7586 </a>\n<br>@ :<a href=\"mailto:joelle.pelletier@umontreal.ca\" class=\"text-warning\"> joelle.pelletier@umontreal.ca&nbsp;</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><b>LINKS</b></p><p class=\"mbr-contacts__text\"><b><br></b></p><p class=\"mbr-contacts__text\"><b><a href=\"http://www.proteo.ca/en/\" target=\"_blank\" class=\"text-danger\">PROTEO</a></b></p><p class=\"mbr-contacts__text\"><u><a href=\"https://chimie.umontreal.ca/repertoire-departement/professeurs/professeur/in/in14450/sg/Joelle%20Pelletier/\" class=\"text-gray\" target=\"_blank\">Joelle Pelletier - Chemistry Dpt.</a></u><br></p><p class=\"mbr-contacts__text\"><u><a href=\"http://ccvc.research.mcgill.ca/home.html\" class=\"text-danger\">Centre in Green Chemistry and Catalysis (<b>CGCC</b>)</a></u></p><p class=\"mbr-contacts__text\"><u><a href=\"https://www.affiniteinstruments.com/\" class=\"text-gray\" target=\"_blank\">Affinity Instruments</a></u></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts2-5l"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2019 Laboratory Joelle Pelletier | Website created with Mobirise, by Jonathan Besna &amp; Ali Fendri | Updated on 11/2020.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-5m"
         }
       ]
     }
